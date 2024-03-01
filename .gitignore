@@ -1,5 +1,4 @@
 .envrc
-*.*
-!/.gitignore
 *.tfstate*
-.terraform/
+.terraform
+.terraform.lock.hcl
